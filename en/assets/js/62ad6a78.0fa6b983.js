@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcommunity_redoop_com=self.webpackChunkcommunity_redoop_com||[]).push([[8434],{7088:o=>{o.exports=JSON.parse('{"label":"facebook","permalink":"/en/blog/tags/facebook","allTagsPath":"/en/blog/tags","count":1}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcommunity_redoop_com=self.webpackChunkcommunity_redoop_com||[]).push([[1193],{8681:o=>{o.exports=JSON.parse('{"label":"docusaurus","permalink":"/en/blog/tags/docusaurus","allTagsPath":"/en/blog/tags","count":4}')}}]);
